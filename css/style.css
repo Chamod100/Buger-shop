@@ -727,14 +727,14 @@ html {
 }
 
 ::-webkit-scrollbar-track {
-    background: #f1f1f1;
+    background: #FFF5F5; /* Light pink, matches burger shop theme */
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #E53E3E;
+    background: #F6AD55; /* Orange accent */
     border-radius: 4px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #C53030;
+    background: #E53E3E; /* Main red accent */
 }
